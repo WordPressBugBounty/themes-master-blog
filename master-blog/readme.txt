@@ -4,7 +4,7 @@ Tags: one-column, two-columns, right-sidebar, custom-background, custom-menu, fe
 Requires at least: 4.4
 Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -56,6 +56,9 @@ All other resources and theme elements are licensed under the [GNU GPL](http://w
 Master Blog is distributed under the terms of the GNU GPL (http://www.gnu.org/licenses/gpl-3.0.txt), version 3 or later.
 
 == Changelog ==
+
+= Version 1.1.2 =
+* Fixed PHP 8+ comments issue
 
 = Version 1.1.1 =
 * Updated code
